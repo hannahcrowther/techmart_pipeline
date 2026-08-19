@@ -6,8 +6,8 @@
 ![CI Pipeline](https://github.com/hannahcrowther/techmart_pipeline/actions/workflows/ci.yml/badge.svg)
 ![Lint](https://github.com/hannahcrowther/techmart_pipeline/actions/workflows/lint.yml/badge.svg)
 ![Last Commit](https://img.shields.io/github/last-commit/hannahcrowther/techmart_pipeline)
+![Open Issues](https://img.shields.io/github/issues/hannahcrowther/techmart_pipeline)
 
-<mark>*Replace `hannahcrowther/techmart_pipeline` with your details*</mark>
 
 ## Project Overview
 
